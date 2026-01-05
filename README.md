@@ -33,3 +33,4 @@ jupyter notebook AI_final_code.ipynb
 ```
 4. Run desired notebook cells. Make sure the notebook kernel is set to the same Python environment where the dependencies were installed.
 ## Notes
+Make sure data/AI_final_data.csv is in the same folder as AI_final_code.ipynb before running.
