@@ -10,12 +10,11 @@ This repository contains data, code, and analysis from the AI Attendance project
 * Question 2 answers.pdf - written analysis of data and results from code
 * README.md - this file
 ## Requirements
-- Python 3.9+
+- Python 3
 - pip
 - Jupyter Notebook
 
-> If Jupyter is not installed, see the official installation guide:  
-> https://jupyter.org/install
+If Jupyter is not installed, see the [official installation guide](https://jupyter.org/install).
 ## Usage
 1. (Optional) Create and activate a virtual environment:
    Windows:
